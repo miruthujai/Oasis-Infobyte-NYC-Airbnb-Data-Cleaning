@@ -165,7 +165,7 @@ Business Recommendations
 - Name: Miruthu Jai
 - Internship: Oasis Infobyte Data Analytics
 - LinkedIn: https://www.linkedin.com/in/miruthujais/
-- GitHub: https://github.com/miruthujai)
+- GitHub: https://github.com/miruthujai
 
 ---
 🏷️ Tags
